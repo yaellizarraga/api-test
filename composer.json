@@ -1,0 +1,13 @@
+{
+    "name": "yaell/api-test",
+    "description": "Api de prueba de interfaz odoo",
+    "require": {
+        "tbondois/odoo-ripcord": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "yaellizarraga",
+            "email": "yaellizarraga@outlook.es"
+        }
+    ]
+}
